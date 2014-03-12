@@ -19,6 +19,9 @@ Our coding standards include:
 * Unless otherwise noted, code should adhere to the Ruby Style Guide: https://github.com/bbatsov/ruby-style-guide
 * Use YARDoc comment style to improve the API documentation of the gem.
 
+## License
+
+The nexpose-gem is provided under the standard three-clause BSD license. See [COPYING](COPYING) for details.
 ## Credits
 
 Rapid7, Inc.
